@@ -17,4 +17,7 @@ public class FirstGitTest {
         System.out.println("Hello git test!!!");
         System.out.println("Hello git test!!!");
     }
+    public void test(){
+        System.out.println("test");
+    }
 }
