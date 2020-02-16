@@ -20,7 +20,7 @@ public class FirstGitTest {
     public void test(){
         System.out.println("test");
 
-
+        System.out.println("----------");
         System.out.println("提交到远程仓库");
     }
 }
